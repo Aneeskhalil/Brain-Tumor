@@ -126,7 +126,7 @@ Evaluated on the test set (1,311 samples), the full HLGA framework achieves:
 
 ## Contact
 For questions or collaboration inquiries, contact **Ahmad Muhammad** at <a href="mailto:ahmadjameel7171@gmail.com">ahmadjameel7171@gmail.com</a>.
-For questions or collaboration inquiries, contact **Anees Khalil** at <a href="aneeskhalil1519@gmail.com">aneeskhalil1519@gmail.com</a>.
+, **Anees Khalil** at <a href="aneeskhalil1519@gmail.com">aneeskhalil1519@gmail.com</a>.
 
 ## Acknowledgments
 - The Kaggle Brain Tumor MRI Dataset providers.  
